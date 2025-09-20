@@ -1,0 +1,8 @@
+name: SkillsPlugin
+version: '${project.version}'
+main: com.valer.skillsplugin.Main
+api-version: '1.21'
+authors: [Valer]
+description: Skills Plugin
+commands:
+  locatest:
