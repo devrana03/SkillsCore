@@ -34,7 +34,7 @@ public class LightningSkill implements CommandExecutor {
                 radius--;
             }
         }
-
+        System.out.println("Hi!");
     }
 
     }
