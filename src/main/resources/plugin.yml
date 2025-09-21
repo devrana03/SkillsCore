@@ -6,3 +6,6 @@ authors: [Valer]
 description: Skills Plugin
 commands:
   locatest:
+  yaw:
+  workspace:
+  entitytrack:
