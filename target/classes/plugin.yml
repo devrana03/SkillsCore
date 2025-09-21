@@ -1,8 +1,0 @@
-name: SkillsPlugin
-version: '1.0-SNAPSHOT'
-main: com.valer.skillsplugin.Main
-api-version: '1.21'
-authors: [Valer]
-description: Skills Plugin
-commands:
-  locatest:
